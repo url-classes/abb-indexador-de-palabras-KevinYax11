@@ -1,0 +1,1 @@
+Al cargar archivos grandes, el programa como que se bugea Inge, al utilizarlo con cierto limite del archivo se visualiza mejor, si cargamos un archivo grande, entonces aparecera un nodo sobre otro, y el programa no lee tantos caracteres, pero cumple con un 75% del enunciado
